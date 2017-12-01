@@ -1,2 +1,2 @@
 # FUT18-auto-buyer
-Autobuyer vor Fifa Ultimate Team 18
+Autobuyer for Fifa Ultimate Team 18
